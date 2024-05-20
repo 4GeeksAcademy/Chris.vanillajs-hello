@@ -6,7 +6,7 @@ window.onload = function() {
   //write your code here
   let pronoun = ["The", "Our", "My", "this", "Your"];
   let adj = ["Big", "Creative", "Helpful", "Fast", "Strong"];
-  let noun = ["Develpoers", "Engineers", "Analyst", "Project", "Agent"];
+  let noun = ["Developers", "Engineers", "Analyst", "Project", "Agent"];
 
   for (let i = 0; i < pronoun.length; i++) {
     for (let a = 0; a < adj.length; a++) {
